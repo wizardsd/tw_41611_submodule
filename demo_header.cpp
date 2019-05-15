@@ -2,5 +2,5 @@
 
 int demo_func()
 {
-    return 1;
+    return 2;
 }
